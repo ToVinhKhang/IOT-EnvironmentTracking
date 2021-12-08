@@ -46,19 +46,19 @@ ThingSpeak
 4/ Change correct Wifi with Username and Password
 <br>
 
-4/ Change correct Write APIKEY of your ThingSpeak account
+5/ Change correct Write APIKEY of your ThingSpeak account
 <br>
 
-5/ Click "Verify" to make sure everything work
+6/ Click "Verify" to make sure everything work
 <br>
 
-6/ Click "Upload" to add code to ESP32
+7/ Click "Upload" to add code to ESP32
 <br>
 
-7/ Now your code is ready to use
+8/ Now your code is ready to use
 <br>
 
-8/ End.
+9/ End.
 
 
 
