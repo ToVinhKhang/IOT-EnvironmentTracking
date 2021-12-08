@@ -1,22 +1,25 @@
 ## IOT-EnvironmentTracking
 This is my school project about IOT Fundamentals.
+
 <br>
 
-### Components included:
+## Components included:
 • ESP32 DevKitC
 • DHT-11
 • PIR HC-SR501
 • LCD 1602 I2C
 • LED
 • BUZZER
+
 <br>
 
-### Cloud service:
+## Cloud service:
 ThingSpeak
+
 <br>
 
-### Run project:
-#### Simulation:
+## Run project:
+### Simulation:
 1/ In CiscoPacketTracer > Open file simulation.pkt
 <br>
 
@@ -27,9 +30,10 @@ ThingSpeak
 <br>
 
 4/ End.
+
 <br>
 
-#### Reality:
+### Reality:
 1/ Add all libraries needed to folder "libraries"
 <br>
 
@@ -39,7 +43,10 @@ ThingSpeak
 3/ Connect ESP32 with your Laptop by USB
 <br>
 
-4/ Change correct wifi username password
+4/ Change correct Wifi with Username and Password
+<br>
+
+4/ Change correct Write APIKEY of your ThingSpeak account
 <br>
 
 5/ Click "Verify" to make sure everything work
