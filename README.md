@@ -10,3 +10,12 @@ Components included:
 • LCD 1602 I2C
 • LED
 • BUZZER
+
+<br>
+
+Cloud service:
+ThingSpeak
+
+
+
+
