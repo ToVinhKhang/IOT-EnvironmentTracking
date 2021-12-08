@@ -1,9 +1,9 @@
-# IOT-EnvironmentTracking
+## IOT-EnvironmentTracking
 This is my school project about IOT Fundamentals.
 
 <br>
 
-Components included:
+### Components included:
 • ESP32 DevKitC
 • DHT-11
 • PIR HC-SR501
@@ -13,8 +13,30 @@ Components included:
 
 <br>
 
-Cloud service:
+### Cloud service:
 ThingSpeak
+
+<br>
+
+### Run project:
+#### Simulation:
+1/ In CiscoPacketTracer > Open file simulation.pkt
+2/ Click to SBC-PT (ESP32) > Programming > Run
+3/ Press Alt and hover mouse to Motion Sensor (PIR HC-SR501)
+4/ End.
+
+<br>
+
+#### Reality:
+1/ Add all libraries needed to folder "libraries"
+2/ In ArduinoIDE > Open file reality.ino
+3/ Connect ESP32 with your Laptop by USB
+4/ Change correct wifi username password
+5/ Click "Verify" to make sure everything work
+6/ Click "Upload" to add code to ESP32
+7/ Now your code is ready to use.
+8/ End.
+
 
 
 
