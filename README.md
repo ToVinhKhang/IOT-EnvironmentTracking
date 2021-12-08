@@ -1,6 +1,5 @@
 ## IOT-EnvironmentTracking
 This is my school project about IOT Fundamentals.
-
 <br>
 
 ### Components included:
@@ -10,7 +9,6 @@ This is my school project about IOT Fundamentals.
 • LCD 1602 I2C
 • LED
 • BUZZER
-
 <br>
 
 ### Cloud service:
